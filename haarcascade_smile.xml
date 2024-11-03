@@ -1,0 +1,42 @@
+
+<opencv_storage>
+<cascade>
+  <stageType>BOOST</stageType>
+  <featureType>HAAR</featureType>
+  <height>24</height>
+  <width>24</width>
+  <stageParams>
+    <maxWeakCount>140</maxWeakCount>
+    <stageThreshold>0.0</stageThreshold>
+  </stageParams>
+  <features>
+    <_>
+      <rects>
+        <_>
+          8 14 2 2 -1</_>
+        <_>
+          8 14 1 2 2</_>
+      </rects>
+      <tilted>1</tilted>
+    </_>
+    <_>
+      <rects>
+        <_>
+          0 12 36 3 -1</_>
+        <_>
+          12 13 12 1 9</_>
+      </rects>
+    </_>
+    <_>
+      <rects>
+        <_>
+          0 13 34 4 -1</_>
+        <_>
+          0 13 17 2 2</_>
+        <_>
+          17 15 17 2 2</_>
+      </rects>
+    </_>
+  </features>
+</cascade>
+</opencv_storage>
